@@ -21,7 +21,7 @@ public class RSSPMLoginVC: UIViewController {
     public init() {
        // let bundle = Bundle(for: LoginVC.self)
       //  let bundleId = bundle.bundleIdentifier
-        super.init(nibName: "LoginVC", bundle: Bundle.module)
+        super.init(nibName: "RSSPMLoginVC", bundle: Bundle.module)
        // super.init(nibName: "LoginVC", bundle: Bundle(for: LoginVC.self))
     }
     
